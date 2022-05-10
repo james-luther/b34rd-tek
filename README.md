@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/b34rd_tek" target="blank"><img src="https://img.shields.io/twitter/follow/b34rd_tek?logo=twitter&style=for-the-badge" alt="b34rd_tek" /></a> </p>
 
-- 📝 I regularly write articles on [b34rd.tech](b34rd.tech)
+- 📝 I regularly write articles on [b34rd.tech](https://b34rd.tech)
 
 - 💬 Ask me about **python, vue, nuxt, tensorflow**
 
