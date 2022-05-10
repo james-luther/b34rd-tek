@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@b34rdtek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@b34rdtek" height="30" width="40" /></a>
-<a href="https://twitter.com/b34rdtek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b34rdtek" height="30" width="40" /></a>
+<a href="https://twitter.com/b34rd_tek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b34rd_tek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-luther-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-luther-jr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/b34rd-tek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="b34rd-tek" height="30" width="40" /></a>
 <a href="https://instagram.com/the.beard.ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.beard.ed" height="30" width="40" /></a>
