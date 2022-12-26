@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=b34rd-tek&label=Profile%20views&color=0e75b6&style=flat" alt="b34rd-tek" /> </p>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b34rd-tek&theme=onedark" alt="b34rd-tek" /></a>
 </p>
 
@@ -29,8 +29,12 @@
 <p><a href="https://www.buymeacoffee.com/b34rd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="b34rd" /></a></p><br><br>
 
 <p/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b34rd-tek&show_icons=true&locale=en&layout=compact" alt="b34rd-tek" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b34rd-tek&show_icons=true&locale=en&layout=compact" alt="b34rd-tek" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b34rd-tek&" alt="b34rd-tek" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b34rd-tek&" alt="b34rd-tek" /></p>
