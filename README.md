@@ -30,9 +30,9 @@
 
 <p/>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b34rd-tek&show_icons=true&locale=en&layout=compact" alt="b34rd-tek" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b34rd-tek&" alt="b34rd-tek" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b34rd-tek&show_icons=true&locale=en&layout=compact" alt="b34rd-tek" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b34rd-tek&" alt="b34rd-tek" />
 </p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" /></p>
