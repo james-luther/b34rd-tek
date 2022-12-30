@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm b34rd-tek</h1>
+<h1 align="center">James Luther</h1>
 <h3 align="center">Cybersecurity Professional</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=b34rd-tek&label=Profile%20views&color=0e75b6&style=flat" alt="b34rd-tek" /> </p>
