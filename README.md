@@ -4,10 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=b34rd-tek&label=Profile%20views&color=0e75b6&style=flat" alt="b34rd-tek" /> </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b34rd-tek&theme=onedark" alt="b34rd-tek" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b34rd-tek&theme=onedark" alt="james-luther" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/b34rd_tek" target="blank"><img src="https://img.shields.io/twitter/follow/b34rd_tek?logo=twitter&style=for-the-badge" alt="b34rd_tek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_j4m3_s" target="blank"><img src="https://img.shields.io/twitter/follow/_j4m3_s?logo=twitter&style=for-the-badge" alt="_j4m3_s" /></a> </p>
 
 - 📝 Check out my blog [b34rd.tech](https://b34rd.tech)
 
