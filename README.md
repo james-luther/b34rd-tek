@@ -1,7 +1,7 @@
 <h1 align="center">James Luther</h1>
 <h3 align="center">Cybersecurity Professional</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=b34rd-tek&label=Profile%20views&color=0e75b6&style=flat" alt="b34rd-tek" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=james-luther&label=Profile%20views&color=0e75b6&style=flat" alt="james-luther" /> </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-luther&theme=onedark" alt="james-luther" /></a>
@@ -30,7 +30,7 @@
 
 <p/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b34rd-tek&show_icons=true&locale=en&layout=compact" alt="b34rd-tek" />
-  <img src="https://github-readme-stats.vercel.app/api?username=b34rd-tek&show_icons=true&locale=en" alt="b34rd-tek" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b34rd-tek&" alt="b34rd-tek" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james-luther&show_icons=true&locale=en&layout=compact" alt="james-luther" />
+  <img src="https://github-readme-stats.vercel.app/api?username=james-luther&show_icons=true&locale=en" alt="james-luther" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james-luther&" alt="james-luther" />
 </p>
