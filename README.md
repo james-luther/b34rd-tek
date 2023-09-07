@@ -7,7 +7,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-luther&theme=onedark" alt="james-luther" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/_j4m3_s" target="blank"><img src="https://img.shields.io/twitter/follow/_j4m3_s?logo=twitter&style=for-the-badge" alt="_j4m3_s" /></a> </p>
 
 - 📝 Check out my blog [b34rd.tech](https://b34rd.tech)
 
